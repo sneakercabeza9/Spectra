@@ -1,0 +1,2 @@
+# Spectra
+Bot discord 
